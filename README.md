@@ -1,4 +1,3 @@
-# A Simple ToDo App w/ Typescript & Fullstack Type Saftey ⛑
 
 ## Running it locally
 
